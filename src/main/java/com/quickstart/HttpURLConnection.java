@@ -6,4 +6,7 @@ public class HttpURLConnection {
             "webapp/wcs/stores/servlet/gb/groceries/berries-cherries-currants6039.html";
 
 
+    public static void getConnection() {
+
+    }
 }
